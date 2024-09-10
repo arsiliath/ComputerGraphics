@@ -62,7 +62,7 @@ ______
 - [Rendering Course: A course on Ray Tracing and Global Illumination:](https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/) TU Wien course about Rendering by Prof. Károly Zsolnai-Fehér (from: [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg))
 
 #### Shader Development
-- [Compute Shaders Course](https://paprika.studio/workshops/compute/index.html) Paid course on Compute Shaders with Unity by Arsiliath.
+- [Compute Shaders Course](https://store.notochord.life/) Paid course on Compute Shaders with Unity by Arsiliath.
 - [Shader Development using Unity](https://shaderdev.com/) Course on general CG and shader development with Unity by Technical Artist Chayan Vinayak.
 - [The Book of Shaders](https://thebookofshaders.com/) A gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
 - [Shader School](https://github.com/stackgl/shader-school) An introduction to GLSL shaders and graphics programming that runs in your web browser.
